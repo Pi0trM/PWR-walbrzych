@@ -2,6 +2,3 @@
 # Moje repozytorium
 
 Treść
-
-
-# podrepo
